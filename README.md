@@ -13,3 +13,7 @@ Week 3 (3/16-3/22)
 
 Week 4 (3/23-3/29)
 ======
+uint 2^8 limit
+bytes 32
+address 40
+
